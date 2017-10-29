@@ -1,0 +1,2 @@
+# Safelink
+OtakuYare's Safelink
